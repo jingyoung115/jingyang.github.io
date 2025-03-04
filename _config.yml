@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her/hers"  
   bio              : "I am interested in political communication, authoritarian politics, and computational social science"
   location         : "Iowa City, Iowa"
   employer         : "University of Iowa"
